@@ -1,4 +1,4 @@
-# Project 1 
+# BookReview Website
 
 • CS50 Project 1 -- Web Programming with Python and JavaScript
 
